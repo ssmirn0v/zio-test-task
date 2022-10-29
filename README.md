@@ -3,7 +3,7 @@
 Вызвать из корневой папки проекта:
 
 ```scala
-sbt assebmly
+sbt assembly
 ```
 
 Затем:
